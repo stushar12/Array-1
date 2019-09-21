@@ -12,7 +12,7 @@ int main()
   }
   for(i=0;i<m;i++)
   {
-if(arr[i]==arr[i+1])
+if(arr[i]==arr[i+1])                  ////count the number of distint elements 
 continue;
 else
 c++;
